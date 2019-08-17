@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "My first ever stream on streamy, please give me an upvote.",
+      "id": 1
+    },
+    {
+      "title": "One other stream",
+      "description": "This has been my second ever stream, so please show me some love.",
+      "id": 2
+    },
+    {
+      "title": "Fourth stream",
+      "description": "awesome cars",
+      "id": 4
+    },
+    {
+      "title": "fifth stream",
+      "description": "awesome angular videos for beginners",
+      "userId": "117020220974784546634",
+      "id": 5
+    }
+  ]
+}
